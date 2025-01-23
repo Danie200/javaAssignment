@@ -1,6 +1,8 @@
 package com.mycompany.mae;
 
-
+//Ekwere Daniel Richard
+//23CD010182
+//2300031
 public class Mae {
 
     public static void main(String[] args) {
