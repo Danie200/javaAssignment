@@ -1,7 +1,9 @@
 
 package com.mycompany.mae;
 import java.util.Arrays;
-
+//Ekwere Daniel Richard
+//23CD010182
+//2300031
 public class question3 {
      public static void main(String[] args) {
        
