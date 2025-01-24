@@ -1,6 +1,8 @@
 
 package com.mycompany.mae;
-
+//Ekwere Daniel Richard
+//23CD010182
+//2300031
 public class question2 {
      public static void main(String[] args) {
        for(int z = 0; z < 3; z++){
