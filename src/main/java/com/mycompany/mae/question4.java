@@ -1,7 +1,9 @@
 
 package com.mycompany.mae;
 import java.util.Scanner;
-
+//Ekwere Daniel Richard
+//23CD010182
+//2300031
 public class question4 {
     public static void main(String[] args) {
          int[] array = new int[10];
